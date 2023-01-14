@@ -231,7 +231,18 @@ nav.navbar .navbar-toggler[aria-expanded="true"] .navbar-toggler-icon {
   line-height: 1;
   margin-bottom: 20px;
   display: block;
-  color: #C6F8E5;
+  color: #fff;
+  text-shadow:
+    /* White glow */
+    0 0 3px #fff,
+    0 0 5px #fff,
+    0 0 14px #fff,
+    /* Green glow */
+    0 0 35px #0fa,
+    0 0 75px #0fa,
+    0 0 85px #0fa,
+    0 0 95px #0fa,
+    0 0 145px #0fa;
 }
 .banner h2{
   font-size: 65px;
@@ -241,6 +252,7 @@ nav.navbar .navbar-toggler[aria-expanded="true"] .navbar-toggler-icon {
   margin-bottom: 20px;
   display: block;
   color: #ffffff;
+  text-shadow: 4px 4px 6px #000000;
 }
 
 .banner p {
@@ -250,6 +262,8 @@ nav.navbar .navbar-toggler[aria-expanded="true"] .navbar-toggler-icon {
   letter-spacing: 0.8px;
   line-height: 1.5em;
   width: 96%;
+  text-shadow: 4px 4px 6px #000000;
+
 }
 
 .banner a{

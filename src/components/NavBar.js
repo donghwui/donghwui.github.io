@@ -93,8 +93,8 @@ export const NavBar = () => {
               >
                 <img src={navIcon3} alt="" />
               </a>
-              <button className="vvd" onClick={() =>window.open("https://drive.google.com/file/d/1uBxA76Uqji3mJooZnQTI7ZbJlWySuHiE/view?usp=sharing", '_blank')}>
-                <span>Resume</span>{" "}
+              <button className="vvd" onClick={() =>window.open("mailto:donghwuikim0102@gmail.com", '_blank')}>
+                <span> Contact me!  </span>{" "}
               </button>
             </div>
           </span>

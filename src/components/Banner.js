@@ -91,10 +91,10 @@ export const Banner = () => {
                   </p>
                   <button
                     onClick={() =>
-                      window.open("https://drive.google.com/file/d/1uBxA76Uqji3mJooZnQTI7ZbJlWySuHiE/view?usp=sharing", "_blank")
+                      window.open("mailto:donghwuikim0102@gmail.com", "_blank")
                     }
                   >
-                    Resume
+                   Contact Me!
                     <ArrowRightCircle size={25} />
                   </button>
                 </div>

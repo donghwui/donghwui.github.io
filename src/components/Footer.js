@@ -17,7 +17,7 @@ export const Footer = () => {
             <a href="https://www.linkedin.com/in/donghwui/" target="_blank" rel="noreferrer"> <img src ={navIcon1} alt="Icon" /></a>
             <a href="https://github.com/Donghwui" target="_blank" rel="noreferrer"> <img src ={navIcon2} alt="Icon" /></a>
             <a href="mailto:donghwuikim0102@gmail.com" target="_blank" rel="noreferrer"><img src ={navIcon3} alt="Icon" /></a>            </div>
-            <p>© 2022 Donghwui Kim™. All Rights Reserved.</p>
+            <p>© 2023 Donghwui Kim™. All Rights Reserved.</p>
           </Col>
         </Row>
       </Container>
