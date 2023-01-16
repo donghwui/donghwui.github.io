@@ -14,7 +14,7 @@ export const Projects = () => {
   const projects = [
     {
       title: "XpertVR",
-      description: "Junior Software Developer Role: Responsible for developing virtual reality simulations, debugging errors, and implementing interactive elements",
+      description: "Software Engineering Intern: Responsible for developing virtual reality simulations, debugging errors, and implementing interactive elements",
       imgUrl: xpertVR,
       linkUrl: "https://drive.google.com/file/d/180dmnAprYzwQNj_FN7zZCtw3_KijG1kr/view?usp=sharing"
     },
