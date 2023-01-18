@@ -2,7 +2,7 @@
 
 ## Description 📜
 
-This is my personal porfolio project to display and highlight some of my projects. The goal of this project is to learn and practice using `React`. 
+This is my _personal porfolio project_ to display and highlight some of my projects. The goal of this project is to learn and practice using `React`. 
 
 
 
@@ -15,9 +15,9 @@ This is my personal porfolio project to display and highlight some of my project
 
 
 ## Features 🕹️
-- **Navigation Bar**: I implemented a <a href="https://react-bootstrap.github.io/components/navbar/">`NavBar`</a> component from the `React-Bootstrap` library to add a responsive navigation header, which displays the logo, sections of the page, and links to contact. 
+- **Navigation Bar**: Implemented a <a href="https://react-bootstrap.github.io/components/navbar/">`NavBar`</a> component from the `React-Bootstrap` library to add a responsive navigation header, which displays the logo, sections of the page, and links to contact. 
 
-- **Carousel Effect**: I have added a <a href="https://react-bootstrap.github.io/components/carousel/">`Carousel`</a> component from the `React-Bootstrap` library to add a slideshow that effectively highlights my skils through cycling.
+- **Carousel Effect**: Added a <a href="https://react-bootstrap.github.io/components/carousel/">`Carousel`</a> component from the `React-Bootstrap` library to add a slideshow that effectively highlights my skils through cycling.
  
 - **Contact**: By using <a href="https://www.emailjs.com/">`EmailJS`</a> and `SDK Libraries`, I could easily implement a client-side contact service to trigger and send an email that contains parameterized variables (full name, email address, message, etc.). I have firstly created a default email template, used the contact form email template, and connected it to the email service. 
 
