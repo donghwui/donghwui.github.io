@@ -21,6 +21,8 @@ This is my personal porfolio project to display and highlight some of my project
  
 - **Contact**: By using <a href="https://www.emailjs.com/">`EmailJS`</a> and `SDK Libraries`, I could easily implement a client-side contact service to trigger and send an email that contains parameterized variables (full name, email address, message, etc.). I have firstly created a default email template, used the contact form email template, and connected it to the email service. 
 
+- **Animation**:	Designed and added various effects by using <a href="https://formidable.com/open-source/react-animations/#:~:text=A%20collection%20of%20animations%20that,css.
+">`animation-react`</a> to create high-quality visual assets and enhance interactive UI appearance. Some of the animations I have include `Typing Effect`, `Zoom-in Effect`, and `Fade-in/out Effect`.
 
 ## Preview 🔎
 
